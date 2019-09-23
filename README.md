@@ -1,5 +1,7 @@
 # What would YOU like to hear about in an rOpenSci Community Call? 
 
+We are soliciting your "votes" and new ideas for Community Call topics and speakers. Read on to see how you can influence us. 
+
 rOpenSci holds Community Calls every 1 - 2 months to share knowledge that is relevant to our community and consistent with [our vision and mission](https://ropensci.org/about/). These are free and open for anyone to attend and provide opportunities for us to connect with rOpenSci community members around the world.
 
 Community Calls are 1 hour long, typically include presentations from 1 to 3 speakers and we always reserve 20 minutes for Q & A. [Past topics](https://ropensci.org/commcalls/) included, How do you review code that accompanies a research project or paper?, Security for R, How do I Create a Code of Conduct for my Event/Lab/Codebase?, and Research Applications of rOpenSci Taxonomy and Biodiversity Tools.
