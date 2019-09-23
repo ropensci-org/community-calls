@@ -8,9 +8,10 @@ Community Calls are 1 hour long, typically include presentations from 1 to 3 spe
 
 ## How can you weigh in?
 
-We’ve opened an issue in this repository for each topic we’re considering. We'd like your input and "votes" on these, and your suggestions for other topics we haven't though of. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://ropensci.org/code-of-conduct/)
+We’ve opened an issue in this repository for each topic we’re considering. We'd like your input and "votes" on these, and your suggestions for other topics we haven't though of. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://ropensci.org/code-of-conduct/).
 
 Watch this repo to see what people are saying.
+
 ![](https://i.imgur.com/YXdUmjr.png)
 
 - Show your interest in a topic with a 👍🏼🎉🚀👎🏼😕
