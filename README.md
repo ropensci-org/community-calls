@@ -8,15 +8,15 @@ Community Calls are 1 hour long, typically include presentations from 1 to 3 spe
 
 ## How can you weigh in?
 
-We’ve opened an issue in this repository for each topic we’re considering. We'd like your input and "votes" on these, and your suggestions for other topics we haven't though of. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://ropensci.org/code-of-conduct/).
+We’ve [opened an issue in this repository for each topic we’re considering](https://github.com/ropensci-org/community-calls/issues). We'd like your input and "votes" on these, and your suggestions for other topics we haven't though of. We welcome participation and civil conversations that adhere to our [Code of Conduct](https://ropensci.org/code-of-conduct/).
 
 Watch this repo to see what people are saying.
 
 ![](https://i.imgur.com/YXdUmjr.png)
 
-- Show your interest in a topic with a 👍🏼🎉🚀👎🏼😕
+- Show your interest in a [topic](https://github.com/ropensci-org/community-calls/issues) with a 👍🏼🎉🚀👎🏼😕
 - Add to an existing idea: propose speakers, resources, what else should we cover
-- Suggest a topic by opening a new issue
+- Suggest a topic by opening a [new issue](https://github.com/ropensci-org/community-calls/issues/new/choose)
 - Encourage others to weigh in by sharing the link to your favorite topic
 
 ## The template for suggesting a topic
