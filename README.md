@@ -1,6 +1,6 @@
 # What would YOU like to hear about in an rOpenSci Community Call? 
 
-We are soliciting your "votes" and new ideas for Community Call topics and speakers. Read on to see how you can influence us. 
+We are soliciting your "votes" and new ideas for [Community Call](https://ropensci.org/commcalls/) topics and speakers. Read on to see how you can influence us. 
 
 rOpenSci holds Community Calls every 1 - 2 months to share knowledge that is relevant to our community and consistent with [our vision and mission](https://ropensci.org/about/). These are free and open for anyone to attend and provide opportunities for us to connect with rOpenSci community members around the world.
 
