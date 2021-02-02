@@ -28,5 +28,5 @@ This is a somewhat generalized version of the checklist we use to run a communit
 - [ ] Thank the speakers
 - [ ] Consider writing summary blog post or assisting community member to write
 - [ ] Record attendance numbers, note any highlights or impact stories, and share with the team
-  - # of attendees from # of countries; % of attendees from academia, government, industry, non-profit, other
+  - number of attendees, number of countries represented; % of attendees from academia, government, industry, non-profit, other
 
