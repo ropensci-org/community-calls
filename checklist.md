@@ -11,20 +11,20 @@ This is a somewhat generalized version of the checklist we use to run a communit
 - [ ] Announce a "save the date"
 - [ ] Create Zoom meeting
 - [ ] Create landing page on website with details including speaker bios, how to join the event (including link to phone access numbers), resources on the topic 
-- [ ] Tweet to promote. Pin tweet
 - [ ] Advertise to target audiences
+  - Tweet to promote. Pin tweet
   - Post in relevant Slack workspaces, newsletters. Share links to the landing page and to a tweet people can share
 - [ ] Have pre-event meeting with speakers 
-- [ ] Create Google doc for attendees list (name, organization, country; optional for attendees), collaborative notes,  Q & A, links to speakers' slides or gists for code, resources | [example](http://bit.ly/ropensci-commcall-maintaining)
+- [ ] Create Google doc for attendees list (optional to add name, organization, country), collaborative notes,  Q & A, links to speakers' slides or gists for code, resources | [example](http://bit.ly/ropensci-commcall-maintaining)
 - [ ] Edit intro slide to show via screenshare at start of call; contains agenda, link to collaborative notes doc 
 - [ ] Edit intro script
 - [ ] Run community call 
   - record call and use Otter.ai Live Notes for transcript
 - [ ] Unpin announcement from Twitter & Slack
-- [ ] Upload video 
+- [ ] Upload [video](https://vimeo.com/ropensci) 
 - [ ] Edit transcript and upload for closed captions on video
-- [ ] Add all resource info to the call's [landing page](https://ropensci.org/commcalls/)
-- [ ] Tweet that video and other artifacts of the call are posted
+- [ ] Add all artifacts of the call to its [landing page](https://ropensci.org/commcalls/)
+- [ ] Tweet that video and other resources are posted
 - [ ] Thank the speakers
 - [ ] Consider writing summary blog post or assisting community member to write
 - [ ] Record attendance numbers, note any highlights or impact stories, and share with the team
