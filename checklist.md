@@ -2,7 +2,7 @@
 
 This is a somewhat generalized version of the checklist we use to run a community call. For a description of the process, see [How rOpenSci Runs Community Calls](https://ropensci.org/blog/2021/02/02/ropensci-community-calls/). You are welcome to adapt for your own use. If you do, please acknowledge rOpenSci.
 
-- [ ] Choose a topic from [the list](issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- [ ] Choose a topic from [the list](../../issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 - [ ] Select 1-3 (... or 6) speakers or panelists
 - [ ] Work out topic details, target audience
 - [ ] Consider sparking further discussion and interest e.g. send a tweet that links to the topic thread
