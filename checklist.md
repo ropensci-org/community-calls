@@ -1,4 +1,4 @@
-# Checklist for a Community Call, from idea to archive and metrics
+# Checklist for a Community Call, from ideas to outcomes
 
 This is a somewhat generalized version of the checklist we use to run a community call. For a description of the process, see [How rOpenSci Runs Community Calls](https://ropensci.org/blog/2021/02/02/ropensci-community-calls/). You are welcome to adapt for your own use. If you do, please acknowledge rOpenSci.
 
