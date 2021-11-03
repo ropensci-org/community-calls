@@ -1,5 +1,7 @@
 For general information see [How rOpenSci Runs Community Calls](https://ropensci.org/blog/2021/02/02/ropensci-community-calls/).
 
+See our [Checklist for a Community Call, from idea to archive and metrics](checklist.md)
+
 # What would YOU like to hear about in an rOpenSci Community Call? 
 
 We are soliciting your "votes" and new ideas for [Community Call](https://ropensci.org/commcalls/) topics and speakers. Read on to see how you can influence us. 
